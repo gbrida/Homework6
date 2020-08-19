@@ -1,1 +1,1 @@
-# Homework6
+This is an app that tells you the temperature, wind speed, and humidity of whatever city is typed in. It also shows the date 
